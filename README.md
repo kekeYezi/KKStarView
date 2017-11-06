@@ -3,4 +3,5 @@
 
 详细效果见gif图
 
-![]([star.gif](https://github.com/kekeYezi/KKStarView/blob/master/star.gif))
+![](https://github.com/kekeYezi/KKStarView/blob/master/star.gif)
+
